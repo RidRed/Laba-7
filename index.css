@@ -1,0 +1,13 @@
+.Main
+{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+.Sec
+{
+    display:flex;
+    flex-direction: column;
+    width:100px;
+    margin-top: 10px;
+}
